@@ -12,8 +12,3 @@ TalentScout assists in the **initial screening of candidates** by:
 
 ---
 
-## ⚙️ Installation Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/talentscout-chatbot.git
-   cd talentscout-chatbot
